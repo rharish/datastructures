@@ -1,2 +1,6 @@
 # datastructures
-Data Structure Implementations
+Data Structure Supported:
+  - Red Black
+  - AA
+  - Splay
+  -= Binomial Heap
